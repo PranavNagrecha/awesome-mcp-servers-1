@@ -2731,6 +2731,22 @@
     "official": true
   },
   {
+    "name": "Salesforce Intelligence",
+    "url": "https://github.com/PranavNagrecha/Salesforce-Intelligence",
+    "description": "Offline, read-only analysis of Salesforce org metadata that answers what breaks before you change a field, flow, or permission, with answers cited to the retrieved metadata.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "TypeScript",
+    "provider": "Community",
+    "tags": [
+      "salesforce",
+      "impact-analysis",
+      "metadata",
+      "crm",
+      "offline"
+    ],
+    "official": false
+  },
+  {
     "name": "HubSpot MCP Server",
     "url": "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/integrate-with-the-remote-hubspot-mcp-server",
     "description": "Access HubSpot contacts, deals, and marketing automation data.",
